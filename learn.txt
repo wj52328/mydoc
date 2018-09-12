@@ -1,0 +1,3 @@
+public class provider:
+   if adc >60;
+     print(nothing)
